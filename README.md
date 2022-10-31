@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @pinkeshkumawat
+- 👋 Hi, I’m @pinkeshkumawat (Software Engineer), Having experience in:
+- 🖥️ Python, Django, DRF, Rest API, AWS, terraform, automation. 
 - 👀 I’m interested in Pragramming and play with new gadgets
 - 🌱 I’m currently learning Data Science and Machine learning
 - 💞️ I’m looking to collaborate on Artificial intellegence and backend developement
